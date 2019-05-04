@@ -4,7 +4,7 @@ Your own fancy button that uses Cloud Shell to deploy a git repo to Cloud Run in
 
 Like this:  
 
-[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.png)](https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/jamesward/cloud-run-button.git)
+[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.png)](https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/apstndb/poormans-dmesg-servern.git)
 
 To add a Cloud Run deploy button to your project's readme:
 
